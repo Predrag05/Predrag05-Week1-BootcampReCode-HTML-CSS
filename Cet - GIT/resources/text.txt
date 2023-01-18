@@ -46,6 +46,6 @@ komanda mkdir kreira novi folder
 *dakle mkdir GITTEST ce napraviti novi folder GITTEST
 
 Komanda touch kreira novi fajl
-*dakle touch Pedja.txt ce napraviti novi tekst fajl sa imenom Pedja
+*dakle touch Pedja.txt ce napraviti novi fajl sa imenom Pedja
 
 Komanda Git add . ce dodati sve fajlove u tom folderu da ih pripremi za commit
