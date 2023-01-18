@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("uki.jpg");
+    height: 63vh;
+}
+header{
+    height: 23vh;
+
+}
+footer{
+    height: 14vh;
+}
+ul {
+    margin-left: 23vw;
+}
+nav>ul>li {
+    display: inline-block;
+    font-size: 27px;
+    margin-left: 5vw;
+    list-style: circle;
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+h2, h3{
+    font-size: 27px;
+    margin-top: 5vw;
+    margin-left: 33vw;
+}
+
+ol>li{
+    font-size: 23px;
+    margin-top: 1vw;
+    margin-left: 33vw;
+}
+p{
+    text-align: center;
+    font-size: 23px;
+}
+article{
+    padding-top: 5vh;
+}
