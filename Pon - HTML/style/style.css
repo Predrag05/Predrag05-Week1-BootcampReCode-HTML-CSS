@@ -1,0 +1,30 @@
+h1 {
+  color: aqua;
+}
+
+.ime-klase {
+  color: brown;
+}
+
+#container {
+  color: red;
+}
+
+ul > li {
+  color: lime;
+}
+
+.kvadrat {
+    height: 150px;
+    width: 150px;
+
+    background-color: green;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+
+}
+.kvadrat > p {
+    text-align: center;
+    margin-top: 45%;
+}
