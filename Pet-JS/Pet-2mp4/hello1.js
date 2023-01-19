@@ -45,4 +45,4 @@ console.log(t);
 //postoji greska u videu
 // const x
 // x = 4
-// 1.Nedelja - Petak2.mp4 - 30:11
+// 1.Nedelja - Pet-2.mp4 - 30:11
