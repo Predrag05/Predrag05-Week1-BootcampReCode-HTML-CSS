@@ -20,7 +20,9 @@ const p = 9
 console.log(x,p,x+p);
 console.log(x,p,x*p);
 
-// Kada se naredjuje komandom Number("423") - to se yove - Eksplicitna konverzija
+// Kada se naredjuje komandom Number("423") - to se zove - Eksplicitna konverzija
 // Ako se forsira eksplicitnom konverzijom Number("6asdgsda87")
 // ovo gore u Nodeu daje NaN - not a number
-// "42" - 3     - Implicitna konverzija, broj u string-u radi bey naredbe za - * /
+// "42" - 3     - Implicitna konverzija, broj u string-u radi bez naredbe za - * /
+// dakle kada sam uradi i prebaci u broj iz stringa to je IMPLICITNA KONVERZIJA
+// a kada moramo da mu naredimo sta da uradi sa npr. Number("432") to je EKSPLICITNA KONVERZIJA
