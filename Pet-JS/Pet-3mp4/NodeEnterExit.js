@@ -23,3 +23,4 @@ console.log(x,p,x*p);
 // Kada se naredjuje komandom Number("423") - to se yove - Eksplicitna konverzija
 // Ako se forsira eksplicitnom konverzijom Number("6asdgsda87")
 // ovo gore u Nodeu daje NaN - not a number
+// "42" - 3     - Implicitna konverzija, broj u string-u radi bey naredbe za - * /
