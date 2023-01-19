@@ -66,6 +66,3 @@ console.log(x2) // var se vidi i van Scopea, odnosno bloka koda, u kome je napra
 // }
 // console.log(z2) //ReferenceError: z2 is not defined
 
-// MOZE DA SE UDJE U NODE!!!
-// DOLE U TERMINALU SE SAMO KUCA KOMANDA NODE PA ENTER!!!
-// IZLAZI SE IZ NODE-A CTRL+C DVA PUTA!!!
