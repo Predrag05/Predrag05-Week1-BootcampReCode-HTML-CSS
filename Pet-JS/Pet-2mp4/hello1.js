@@ -34,7 +34,7 @@ console.log(a,x);
 // Number, String, Boolean (true/false)
 
 console.log("sad" + "posle"); // sabiranje stringova moze - kao da se povezu dve reci, a ostale kombinacije uglavnom ne mogu - * / ne mogu u mixu stringa i numbera
-console.log("sad" + "5")// String ce javaskript pokusati da pretvori u broj ako mu je yadata matematicka operacija
+console.log("sad" + "5")// String ce javaskript pokusati da pretvori u broj ako mu je zadata matematicka operacija
 console.log(35 - "5") // + ce samo da doda ipak 5 kao string ali ostale opcije * - / ce ipak pokusati da izracuna
 
 
